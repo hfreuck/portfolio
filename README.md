@@ -1,2 +1,2 @@
 # portfolio
-Harrison Freuck'
+Harrison Freuck's Portfolio Site
